@@ -1,0 +1,34 @@
+<programmers>
+    <programmer>
+        <name>Eugene</name>
+        <surname>Chmykhun</surname>
+        <projects>
+            <project isCurrent="true" >Nabolaget</project>
+            <project isCurrent="false" >Bingo</project>
+        </projects>
+        <pls type="main">
+            <pl>
+                <name >javascript</name>
+                <level>good</level>
+            </pl>
+            <pl>
+                <name>PHP</name>
+                <level>excellent</level>
+            </pl>
+        </pls>
+        <pls type="side">
+            <pl>
+                <name >C#</name>
+                <level>average</level>
+            </pl>
+            <pl>
+                <name>C++</name>
+                <level>lover average</level>
+            </pl>
+            <pl>
+                <name>Assembler</name>
+                <level>basics</level>
+            </pl>
+        </pls>
+    </programmer>
+</programmers>
